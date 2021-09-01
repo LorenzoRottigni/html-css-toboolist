@@ -1,0 +1,94 @@
+span{
+    font-size: 0.6em;
+}
+
+
+
+body header section h1{
+    display: inline-block;
+    font-size: 3em;
+    line-height: 40%;
+    font-weight: bold;
+    vertical-align: middle;
+}
+body header section img{
+    display: inline-block;
+    vertical-align: middle;
+}
+body main section div.external-container{
+    padding: 5%;
+    background-color: #f6f8f9;
+}
+body main section div.external-container div{
+    background-color: white;
+    border-radius: 10px;
+}
+body main section div.external-container div div.buttons-container{
+    border-bottom: solid #f6f8f9 4px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+body main section div.external-container div div.buttons-container button{
+    background-color: #47adf1;
+    color: white;
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    margin-right: 1%;
+    font-size: 1.2em;
+    font-weight: bold;
+    border-color: #47adf1;
+    border-style: solid;
+}
+body main section div.external-container div div.buttons-container button:last-child{
+    background-color: white;
+    color: lightgrey;
+    border: solid lightgrey;
+}
+body main section div.external-container div div.task-container{
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+
+}
+body main section div.external-container div div.task-container h1{
+    font-weight: bolder;
+    font-size: 2.5em;
+    line-height: 10%; 
+    color: #444851;   
+}
+body main section div.external-container div div.task-container h2{
+    color: #444851;
+}
+body main section div.external-container div div.task-container h2 img{
+    width: 4%;
+    display: inline-block;
+    vertical-align: middle;
+}
+body main section div.external-container div div.task-container h2 span{
+    background-color: #47adf1;
+    padding: 1%;
+    margin-left: 1%;
+    border-radius: 15px;
+    color: white
+}
+body main section div.external-container div div.task-container h2 span.purple{
+    background-color: #9c72e4;
+}
+body main section div.external-container div div.task-container h2 span.green{
+    background-color: #64c0a9;
+}
+body main section div.external-container div div.task-container h2 span.orange{
+    background-color: #f29e33;
+}
+body main section div.external-container div div.task-container h2 span.light-green{
+    background-color: #b0c926;
+}
+body main section div.external-container div div.task-container h2 span.pink{
+    background-color: #d863a1;
+}
